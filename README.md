@@ -1,4 +1,4 @@
 # AUR-packages-updater
-Script for update your aur packages
+Script for updating your aur packages.
 
-Just run in folder with aur packages.
+Just run in the folder with aur packages.
